@@ -29,6 +29,10 @@ pages="",
 doi=""
 }
 ```
+# Bugs & Feature Requests
+
+Please report bugs and request features by using the [Issue Tracker](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/issues). Furthermore, please see the [Contributing.md](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/blob/master/CONTRIBUTING.md) file if you plan to help us improve the features of this repository.
+
 ## Multimedia materials
 
 [![IFAC2020_competition](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/wiki/images/main.png)](https://youtu.be/9VySp0j-1hc "IFAC2020 Minidrone Cometition")
