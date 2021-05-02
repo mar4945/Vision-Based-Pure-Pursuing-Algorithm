@@ -31,7 +31,7 @@ doi=""
 ```
 # Bugs & Feature Requests
 
-Please report bugs and request features by using the [Issue Tracker](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/issues). Furthermore, please see the [Contributing.md](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/blob/master/CONTRIBUTING.md) file if you plan to help us improve the features of this repository.
+Please report bugs and request features by using the [Issue Tracker](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/issues). Furthermore, please see the [Contributing.md](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/blob/main/CONTRIBUTING.md) file if you plan to help us improve the features of this repository.
 
 ## Multimedia materials
 
