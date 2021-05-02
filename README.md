@@ -31,4 +31,4 @@ doi=""
 ```
 ## Multimedia materials
 
-[![IFAC2020_competition](https://github.com/ctu-mrs/icuas_2021_sw_architecture_acws/wiki/images/main.png)](https://youtu.be/9VySp0j-1hc "IFAC2020 Minidrone Cometition")
+[![IFAC2020_competition](https://github.com/mar4945/Vision-Based-Pure-Pursuing-Algorithm/wiki/images/main.png)](https://youtu.be/9VySp0j-1hc "IFAC2020 Minidrone Cometition")
