@@ -7,7 +7,7 @@
 
 This repository contains the MATLAB scripts for the work carried out for IFAC2020 MATLAB Minidrone competition. The algorithm was the [winner of the competition](https://www.mathworks.com/academia/student-competitions/minidrones/minidrone-masters.html). 
 
-The instructions to set up the simulation scenario are available at [this link](https://it.mathworks.com/academia/student-competitions/minidrones.html).
+The instructions to set up the simulation scenario are available at [this link](https://it.mathworks.com/academia/student-competitions/minidrones.html), while the preprint version of the paper is [available on Researchgate](https://www.researchgate.net/publication/351443447_A_Vision-Based_Algorithm_for_a_Path_Following_Problem).
 
 If you are using this simulator within the research for your publication, please cite:
 
