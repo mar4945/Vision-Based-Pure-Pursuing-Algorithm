@@ -13,20 +13,14 @@ If you are using this simulator within the research for your publication, please
 
 ```bibtex
 @INPROCEEDINGS{TerlizziICUAS21,
-author="Terlizzi, Mario,
-    and Silano, Giuseppe
-    and Russo, Luigi
-    and Muhammad, Aatif
-    and Basiri, Amin
-    and Mariani, Valerio
-    and Iannelli, Luigi
-    and Glielmo, Luigi",
+author="Terlizzi, Mario, and Silano, Giuseppe and Russo, Luigi and Muhammad, Aatif
+    and Basiri, Amin and Mariani, Valerio and Iannelli, Luigi and Glielmo, Luigi",
 title="A Vision-Based Algorithm for a Path Following Problem",
 booktitle="2021 International Conference on Unmanned Aircraft Systems (ICUAS)", 
 year="2021",
 publisher="IEEE",
-pages="",
-doi=""
+pages="1630--1635",
+doi="10.1109/ICUAS51884.2021.9476777"
 }
 ```
 # Bugs & Feature Requests
