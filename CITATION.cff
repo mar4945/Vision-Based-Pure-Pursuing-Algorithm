@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: conference
+  authors:
+  - family-names: "Terlizzi"
+    given-names: "Mario"
+  - family-names: "Silano"
+    given-names: "Giuseppe"
+    orcid: "https://orcid.org/0000-0002-6816-6002"
+  - family-names: "Russo"
+    given-names: "Luigi"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Muhammad"
+    given-names: "Aatif"
+    orcid: "https://orcid.org/0000-0003-1924-784X"
+  - family-names: "Basiri"
+    given-names: "Amin"
+    orcid: "https://orcid.org/0000-0001-9870-4441"
+  - family-names: "Mariani"
+    given-names: "Valerio"
+    orcid: "https://orcid.org/0000-0003-2284-3802"
+  - family-names: "Iannelli"
+    given-names: "Luigi"
+    orcid: "https://orcid.org/0000-0003-2034-0005"
+  - family-names: "Glielmo"
+    given-names: "Luigi"
+    orcid: "https://orcid.org/0000-0003-2753-1787"
+  doi: "10.1109/ICUAS51884.2021.9476777"
+  booktitle: "2021 International Conference on Unmanned Aircraft Systems (ICUAS)"
+  start: 1630 # First page number
+  end: 1635 # Last page number
+  title: "A Vision-Based Algorithm for a Path Following Problem"
+  year: 2022
+  publisher: "IEEE"
+  link: "https://ieeexplore.ieee.org/document/9476777"
+  preprint: "https://giuseppesilano.net/publications/ICUAS21_Silano_II.pdf"
